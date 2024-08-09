@@ -37,6 +37,7 @@ else {
 // 3. Ejercicio 3: Determinar el Mayor de Tres Números
 //    - Descripción: Escribe un programa que lea tres números del usuario y determine cuál es el mayor.
 
+
 // Ejercicios con `for`
 
 // 1. Ejercicio 1: Imprimir Números del 1 al 10
